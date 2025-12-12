@@ -1,0 +1,35 @@
+* {
+    color: rgb(214, 214, 214);
+}
+
+body {
+    background-color: rgb(65, 65, 65);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+.author-link {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+h1 {
+    color: rgb(41, 190, 61);
+}
+
+.content {
+    text-align: center;
+    /* background-color: rgb(51, 51, 51); */
+    display: block;
+    padding: 5px 50px;
+    margin: 0px auto;
+}
